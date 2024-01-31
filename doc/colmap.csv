@@ -1,0 +1,46 @@
+name_from,name_to,open_field
+"ID",id,FALSE
+"Start time",started_at,FALSE
+"Completion time",ended_at,FALSE
+"Email",email_auto,FALSE
+"Name",name_auto,FALSE
+"Last modified time",modified_at,FALSE
+"How long have you been using R?",experience_R,FALSE
+"How long have you been using data.table?",experience_datatable,FALSE
+"Approximately how often do you use data.table these days?",usage_frequency,FALSE
+"In what context are you using data.table?",usage_context,FALSE
+"What are  you currently using data.table for?",usage_area,FALSE
+"What do you appreciate the most about data.table?",appreciate_most,TRUE
+"What are your biggest challenges in using data.table?",biggest_challenges,TRUE
+"Would you like to see specific extra functionality in data.table?",desired_extra_functionality,TRUE
+"Performance (speed &  ability to handle large datasets)",satisfaction1_performance,FALSE
+"Code readability",satisfaction1_readability,FALSE
+"Concise syntax",satisfaction1_concise,FALSE
+"Few changes that break old code",satisfaction1_nonbreaking,FALSE
+"Minimal dependencies",satisfaction1_mindeps,FALSE
+"Error messages",satisfaction1_errors,FALSE
+"Documentation",satisfaction1_docs,FALSE
+"Performance (speed & ability to handle large datasets)",importance_performance,FALSE
+"Code readability2",importance_readability,FALSE
+"Concise syntax2",importance_concise,FALSE
+"Few changes that break old code2",importance_nonbreaking,FALSE
+"Minimal dependencies2",importance_mindeps,FALSE
+"Error messages2",importance_errors,FALSE
+"Documentation2",importance_docs,FALSE
+"Importing & Exporting",satisfaction2_io,FALSE
+"Filtering",satisfaction2_filter,FALSE
+"Reshaping",satisfaction2_reshape,FALSE
+"Joining/Merging",satisfaction2_joins,FALSE
+"Manipulation & Aggregation",satisfaction2_manip,FALSE
+"How useful would you find a convenience function for using data.table with the pipe?",pipe_helper_usefulness,FALSE
+"Which name would you prefer for an alias of the := operator?",walrus_alias,FALSE
+"Are you interested in contributing to data.table?",contribution_interest,FALSE
+"In which areas are you interested in contributing to data.table?",contribution_areas_interest,FALSE
+"In which areas have you already contributed to data.table?",contribution_areas_previous,FALSE
+"Is there anything that would make it easier or more appealing for you to contribute to the project?",contribution_easier,TRUE
+"Which values, principles, and objectives should guide the data.table project going forward?",values_et_al,TRUE
+"Which specific agreements, roles, workflows & practices would best serve the project?",agreements_et_al,TRUE
+"If you're familiar with governance documents of other open source projects, which ones should data.table imitate? How/Why?",gov_docs_rolemodels,TRUE
+"Is there anything else you'd like to share?",anything_else,TRUE
+"Email2",email,TRUE
+"Your responses",responses_sharing,FALSE
